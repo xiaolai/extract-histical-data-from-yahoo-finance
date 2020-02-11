@@ -1,6 +1,6 @@
 # Extract historical data from yahoo finance
 
-I use this jupyter notebokk to test my portfolio, GAFATA.
+I use this jupyter notebook to test my portfolio, GAFATA.
 
 The first cell in the notebook could somehow be universally used:
 
